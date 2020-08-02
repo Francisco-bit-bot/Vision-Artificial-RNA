@@ -1,7 +1,5 @@
 # Vision-Artificial-RNA
 Visión Artificial con aplicación de una RNACosas a tener en cuenta para ejecutar el proyecto
-Se debe saber cómo crear entornos virtuales con Conda a partir de un fichero yml
-OpenCV puede dar problemas a la hora de instalar desde Conda (sobre todo con la integración de la web-cam). Se debe buscar el repositorio que corresponda a nuestro SO, siempre teniendo en cuenta la versión de Python especificada en el fichero yml.
 Cómo lanzar el proyecto
 Clonar en tu máquina el repositorio
 
